@@ -1,16 +1,15 @@
 # flutter_login_signup_firebase_app
 
-A new Flutter project.
+Flutter login and signup integration with Firebase
 
-## Getting Started
+## About Me
 
-This project is a starting point for a Flutter application.
+Hi Folks! I am Kavit, a software engineer with a passion for teaching.
 
-A few resources to get you started if this is your first Flutter project:
+📹  YouTube: https://www.youtube.com/channel/UCV-_hzlbVSlobkekurpLOZw/featured
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+📸  Instagram: https://www.instagram.com/code_with_kavit/
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📂  Github: https://github.com/Kavit900
+
+💻  Discord: https://discord.gg/V3rhXEPe
